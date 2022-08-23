@@ -1,1 +1,4 @@
-fffffff
+*.log 
+/dir/
+static/dir
+sdf
